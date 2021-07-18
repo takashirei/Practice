@@ -8,3 +8,4 @@ Flask-Session
 bs4
 os
 uuid
+requests
